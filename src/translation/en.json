@@ -1,0 +1,23 @@
+{
+  "users": {
+    "wrongPassword": "Incorrect password entered",
+    "login": "User logged in successfully",
+    "created": "New user account created successfully", 
+    "userUpdate": "User profile updated successfully",
+    "missingOtpType": "OTP type is required",
+    "sendOtp": "OTP sent successfully",
+    "verify": "Account verified successfully",
+    "changePasswordSuccess": "Password changed successfully",
+    "passwordUpdate": "Password updated successfully",
+    "otpNotMatch": "OTP does not match",
+    "deleteUser": "User account deleted successfully"
+  },
+  "denied": "Access denied",
+  "auth": {
+    "userInvalid": "Invalid user credentials"
+  },
+  "roles": {
+    "roleCreate": "New role created successfully"
+  },
+  "noUser": "User not found"
+}
